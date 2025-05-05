@@ -197,5 +197,12 @@ hr {
 		padding: 50px;
 		gap: 20px;
 	}
+	.pub-info_details {
+		align-self: left;
+	}
+	.pub-info_date{
+		align-self: right;
+
+	}
 
 }
