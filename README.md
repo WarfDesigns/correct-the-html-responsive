@@ -33,7 +33,7 @@ Please refer to `mockup.jpg` in the repository.
 - [X] Create a 2 column layout using `grid` or `flexbox` for the content using the existing media query in `styles.css`.
 - [X] Replace image placeholders with images from `img` folder.
 - [X] Link the `click here` link to the story page in the `stories` folder.
-- [ ] * ***BONUS*** * Update `stories\ai-takes-over.html` to include the updates from `index.html`
+- [X] * ***BONUS*** * Update `stories\ai-takes-over.html` to include the updates from `index.html`
 
 ### Submitting Your Work
 
