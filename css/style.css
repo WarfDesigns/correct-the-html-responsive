@@ -181,4 +181,9 @@ hr {
 		border-radius: 0.6rem;
 		margin: 0;
 	}
+	.main-module {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+	}
 }
+/**Create a 2 column layout using `grid` or `flexbox` for the content using the existing media query in `styles.css`.
